@@ -15,6 +15,4 @@ I am passionate about extracting insights from data and building predictive mode
   <a href="mailto:pratikmaru535@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
----
-### 📈 GitHub Stats
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-26&show_icons=true&theme=radical)
+
